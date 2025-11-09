@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>QLiu Html Template for Markdown</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- base href="http://localhost:8000/" target="_blank">
+	<base href="https://qiangliu-2.github.io" target="_blank" -->
+	
+  <script src="utils/marked.min.js"></script>
+  <script src="utils/ql_import_md.js"></script>
+  <link rel="stylesheet" type="text/css" media="all" href="utils/ql_md_copilot.css">
+</head>
+
+<body>
+  <div style="text-align: center;">***** Reading FUN *****</div>
+  <div id="markdownOut"></div>
+
+  <script>
+	// Access URL Parameters: ql_md_template.html?my.md=econ/cryptoccy/stablecoin.md
+	const urlParam = getUrlParams();
+	const mdPath = urlParam['my.md'];
+	
+    // Auto-load server Markdown: mdPath = 'econ/cryptoccy/stablecoin.md'
+    window.addEventListener('DOMContentLoaded', () => {
+        loadAndRenderMarkdown('markdownOut', mdPath);
+    });
+  </script>
+</body>
+</html>
