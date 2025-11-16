@@ -1,5 +1,8 @@
 # Use GitHub as a free web server
+    Turn GitHub into your own web server
+    Set up your own full-fledged webpage for free
 
+### Four easy steps:
 1. Create a [GitHub account](https://github.com/signup) by choosing a user name you like. For example, **qiangliu-2** in my case;
 2. Create a new **repository** with the name: **qiangliu-2.github.io** (i.e., your GitHub account name in front of **.github.io**), which will be the URL of your own webpage;
 3. Edit and upload an *index.html* into this repository. Wait for a few minutes;
