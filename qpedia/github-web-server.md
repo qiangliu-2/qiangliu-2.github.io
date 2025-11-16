@@ -13,5 +13,6 @@
 - Certain pages are generated from **ql_md_template.html** with a *markdown* file as the URL Parameter
 - Check out (and download) examples from my [repository](https://github.com/qiangliu-2/qiangliu-2.github.io) and use them for your own purpose.
 
-### Edit a markdown file in a browser
-Click [Edit & View MD file](https://qiangliu-sd.github.io/mdEditView.html), bookmark (or save) it, and then use it to create markdown files.
+Notes for working with HTML files:
+1. [Test HTML files](https://github.com/qiangliu-sd/folder-sharing-via-web) on your own Windows PC
+2. [Edit/View markdown](https://qiangliu-sd.github.io/mdEditView.html) in a browser. Bookmark (or save) the URL, and then open it to create markdown files.
