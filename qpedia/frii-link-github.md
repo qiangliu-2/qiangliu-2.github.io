@@ -11,11 +11,11 @@ Go to Dashboard, choose CNAME, type **qiangliu** (i.e., my free domain, *qiangli
 2. Verifying the domain on GitHub\
 Choose Profile::settings of **github.com/qiangliu-2**.\
 Click Pages under Code, planning, and automation.\
-Add a verified domain: **qiangliu.frii.site**\
+Add a domain: **qiangliu.frii.site**\
 Your will see:
 - "Create a TXT record in your DNS configuration for the following **hostname**: 
-_github-pages-challenge-qiangliu-2.qiangliu"
-- "Use this code for the **value** of the TXT record: whshhsjjskdle884j5955995995995" (Note: this value is fake!)
+\_github-pages-challenge-qiangliu-2.qiangliu"
+- "Use this code for the **value** of the TXT record: 6f5246c1397968b9a7cc704662743b"
 
 3. Go back to qiangliu.frii.site, Your domains:
 choose TXT and paste the **hostname** from GitHub (Step 2 above), click Register\
