@@ -11,8 +11,8 @@ Go to *Dashboard*, choose CNAME, type **qiangliu** (i.e., my free domain, qiangl
 2. Add the frii domain to GitHub.\
 Choose *Profile::Settings* of GitHub account **github.com/qiangliu-2**.\
 Click *Pages* under *Code, planning, and automation*.\
-Click *Add a domain*: type **qiangliu.frii.site**\
-Your will see:
+Click *Add a domain*: type **qiangliu.frii.site**.\
+You will see:
 - "Create a TXT record in your DNS configuration for the following **hostname**: \
 `_github-pages-challenge-qiangliu-2.qiangliu`"
 - "Use this code for the **value** of the TXT record: \
@@ -20,7 +20,7 @@ Your will see:
 
 3. Go back to *Your domains* on frii.site:\
 Choose TXT and paste the **hostname** from GitHub (Step 2 above), click *Register*\
-Paste the TXT **value** from GitHub (Step 2 above).
+Paste the TXT **value** from GitHub (Step 2 above).\
 Now you will see something like this:
 
 ![qiangliu.frii](images/qiangliu.frii.png)
