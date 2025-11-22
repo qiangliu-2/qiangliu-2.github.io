@@ -1,7 +1,7 @@
-# Universities with Three Plus Science Nobel Laureates Affiliations
+# Universities with Three Plus Science Nobelist Affiliations
 
-There are many online lists of universities with the most Nobel Laureates. Some count graduates and others include even visiting scholars or invited speakers. The most objective list is probably **Nobel Laureates and research affiliations** provided by *NobelPrize.org*, which
-> “shows the universities … Nobel Laureates were affiliated with at the time of the Nobel Prize announcement. Only Nobel Laureates in Physics, Chemistry and Physiology or Medicine, … are shown in the list.”  [(Note 1)](#Notes)
+There are differing online lists of universities claiming numbers of Nobel Laureates. Some count graduates and others include even visiting scholars or invited speakers. The most objective list is probably **Nobel Laureates and research affiliations** provided by *NobelPrize.org* [(Note 1)](#Notes), which
+> “shows the universities … Nobel Laureates were affiliated with at the time of the Nobel Prize announcement. Only Nobel Laureates in **Physics**, **Chemistry** and **Physiology or Medicine**, … are shown in the list.”
 
 There are 51 universities with three or more Nobel Laureates affiliations. These universities are from the United States (23), the United Kingdom (7), Germany (5), France (4), Sweden (3), Japan and Switzerland (2), and Canada, Denmark, Israel, the Netherlands, and Russia (1) [(Note 4)](#Notes). Only three universities are from Asia, which surprisingly does not include the University of Tokyo.
 
