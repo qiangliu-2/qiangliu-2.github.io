@@ -3,15 +3,15 @@
 There are many online lists of universities with the most Nobel Laureates. Some count graduates and others include even visiting scholars or invited speakers. The most objective list is probably **Nobel Laureates and research affiliations** provided by *NobelPrize.org*, which
 > “shows the universities … Nobel Laureates were affiliated with at the time of the Nobel Prize announcement. Only Nobel Laureates in Physics, Chemistry and Physiology or Medicine, … are shown in the list.”  [(Note 1)](#Notes)
 
-There are 50 universities with three or more Nobel Laureates affiliations. These universities are from the United States (23), the United Kingdom (7), Germany (5), France and Sweden (3), Switzerland and Japan (2), and Canada, Denmark, Israel, the Netherlands, and Russia (1) [(Note 4)](#Notes). Only three universities are from Asia, which surprisingly does not include the University of Tokyo.
+There are 51 universities with three or more Nobel Laureates affiliations. These universities are from the United States (23), the United Kingdom (7), Germany (5), France (4), Sweden (3), Japan and Switzerland (2), and Canada, Denmark, Israel, the Netherlands, and Russia (1) [(Note 4)](#Notes). Only three universities are from Asia, which surprisingly does not include the University of Tokyo.
 
 Harvard tops the list with 30, followed by Stanford and Caltech. The next seven universities are from UC Berkeley (17) to Oxford (11). The US dominates the top 10, while only Cambridge and Oxford are from the UK. 
 
 The next ten universities count from 8 to 6, with **Cornell** at the top. Four universities are from the US.
 
-Ivy League occupies six spots in the top 50 (four in the top 11), a solid showing undoubtedly. Cornell, a school underestimated by parents and students, ranks only behind Harvard, Columbia, and Princeton.
+Ivy League occupies six spots in the top 51 (four in the top 11), a solid showing undoubtedly. Cornell, a school underestimated by parents and students, ranks only behind Harvard, Columbia, and Princeton.
 
-California as a state is in its own league, accoupying No. 2, 3, and 4 spots with seven universities. If it were a country, it would have ranked as No. 2. The UC system is impressive with five in the top 50.
+California as a state is in its own league, accoupying No. 2, 3, and 4 spots with seven universities. If it were a country, it would have ranked as No. 2. The UC system is impressive with five in the top 51.
 
 ### The list of 50 universities is as follows:
 30	Harvard University, Cambridge, MA, USA	\
@@ -26,13 +26,13 @@ California as a state is in its own league, accoupying No. 2, 3, and 4 spots wit
 11	University of Oxford, Oxford, United Kingdom
 
 8	Cornell University, Ithaca, NY, USA	\
-7	Berlin University, Berlin, Germany	\
+8	University of Berlin, Berlin, Germany	\
 7	London University, London, United Kingdom	\
 7	University of Chicago, Chicago, IL, USA	\
 7	University of Heidelberg, Heidelberg, Germany	\
+7	Sorbonne University, Paris, France	\
 6.5	University of California, Santa Barbara, CA, USA	\
 6	Johns Hopkins University, Baltimore, MD, USA	\
-6	Sorbonne University, Paris, France	\
 6	University College, London, United Kingdom	\
 6	Kyoto University, Kyoto, Japan
 
@@ -45,14 +45,15 @@ California as a state is in its own league, accoupying No. 2, 3, and 4 spots wit
 5	University of Texas Southwestern Medical Center at Dallas, Dallas, TX, USA	\
 5	University of Washington, Seattle, WA, USA	\
 5	Uppsala University, Uppsala, Sweden	\
+5	University of Strasbourg, Strasbourg, France
+
 4+	University of Pennsylvania, Philadelphia, PA, USA	\
 4	Collège de France, Paris, France	\
 4	Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology), Zurich, Switzerland	\
 4	Imperial College, London, United Kingdom	\
 4	University of Illinois, Urbana, IL, USA	\
 4	University of Toronto, Toronto, Canada	\
-4	University of Zurich, Zurich, Switzerland	
-
+4	University of Zurich, Zurich, Switzerland	\
 3	Copenhagen University, Copenhagen, Denmark	\
 3	École Normale Supérieure, Paris, France	\
 3	University of Edinburgh, Edinburgh, United Kingdom	\
@@ -65,9 +66,7 @@ California as a state is in its own league, accoupying No. 2, 3, and 4 spots wit
 3	Technion - Israel Institute of Technology, Haifa, Israel	\
 3	University of California, Irvine, CA, USA	\
 3	University of Wisconsin, Madison, WI, USA	\
-3	Victoria University, Manchester, United Kingdom	\
-3	Washington University, St. Louis, MO, USA
-
+3	Victoria University, Manchester, United Kingdom
 
 ### Notes
 <a name="Notes"></a>
