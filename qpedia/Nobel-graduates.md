@@ -71,4 +71,4 @@ There are 15 universities with 10 or more Nobelist-graduates, including **Cornel
 2. The data was gathered mainly via Google search of Nobelist names using Python script, and then cleaned and checked manually. Over 300 Nobelist names were searched manually, primarily from Wikipedia.
 3. Institutions names may have changed over time, and are combined as best as I can. Many names were manually checked primarily via Wikipedia. Note, however, the author is unfamiliar with European universities and thus may have miscounted. Your corrections are truly appreciated!
 
-(Dec. 2, 2025)
+(Dec. 1, 2025)
