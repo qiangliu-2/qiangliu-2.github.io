@@ -36,7 +36,7 @@ Pauling绝对是个传奇。他本人两次独立获得诺奖，还有众多学�
 本文中的获奖次数，统计的是[诺奖得主获奖时所在大学](ql_md_template.html?my.md=qpedia/Nobel-affiliations.md)。
 
 Pauling → 博士生、诺奖得主William Lipscomb → 博士生、诺奖得主R. Hoffmann → 博士生(作者）\
-Pauling → 博士生、诺奖得主Martin Karplus &nbsp&nbsp&nbsp → 博士后J. Brady   &nbsp&nbsp&nbsp  → 博士后(作者）\
-Pauling → 博士生Edgar Bright Wilson &nbsp&nbsp&nbsp  → 博士生、诺奖得主Dudley R. Herschbach → 博士后、诺奖得主李遠哲。 Wilson也是诺奖得主Kenneth G. Wilson的父亲。 
+Pauling → 博士生、诺奖得主 Martin Karplus &nbsp;&nbsp;&nbsp; → 博士后J. Brady   &nbsp;&nbsp;&nbsp;  → 博士后(作者）\
+Pauling → 博士生 Edgar Bright Wilson &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  → 博士生、诺奖得主Dudley R. Herschbach → 博士后、诺奖得主李遠哲。 Wilson也是诺奖得主Kenneth G. Wilson的父亲。 
 
 2025年11月23日
