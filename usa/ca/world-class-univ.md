@@ -23,7 +23,7 @@ Pauling绝对是个传奇。他本人两次独立获得诺奖，还有众多学�
 2 南加州大学 (University of Southern California), 洛杉矶\
 （大学名称前面的数字是获奖次数）
 
-### 加州博士获科学类诺奖的大学
+### 博士获科学类诺奖的大学
 23	University of California at Berkeley\
 15	California Institute of Technology\
 6	Stanford University\
@@ -33,7 +33,7 @@ Pauling绝对是个传奇。他本人两次独立获得诺奖，还有众多学�
 
 注：\
 <a name="Notes"></a>
-本文中的获奖次数，统计的是[诺奖得主获奖时所在大学](ql_md_template.html?my.md=qpedia/Nobel-affiliations.md)。
+本文主要统计的是[诺奖得主获奖时所在大学]的次数(ql_md_template.html?my.md=qpedia/Nobel-affiliations.md)，其次统计的是大学毕业博士的获奖人数。
 
 Pauling → 博士生、诺奖得主William Lipscomb → 博士生、诺奖得主R. Hoffmann → 博士生(作者）\
 Pauling → 博士生、诺奖得主 Martin Karplus &nbsp;&nbsp;&nbsp; → 博士后J. Brady   &nbsp;&nbsp;&nbsp;  → 博士后(作者）\
