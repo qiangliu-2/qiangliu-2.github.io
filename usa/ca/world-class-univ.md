@@ -33,7 +33,7 @@ Pauling绝对是个传奇。他本人两次独立获得诺奖，还有众多学�
 
 注：\
 <a name="Notes"></a>
-本文主要统计的是[诺奖得主获奖时所在大学]的次数(ql_md_template.html?my.md=qpedia/Nobel-affiliations.md)，其次统计的是大学毕业博士的获奖人数。
+本文主要统计的是[诺奖得主获奖时所在大学](ql_md_template.html?my.md=qpedia/Nobel-affiliations.md)的次数，其次统计的是大学毕业博士的获奖人数。
 
 Pauling → 博士生、诺奖得主William Lipscomb → 博士生、诺奖得主R. Hoffmann → 博士生(作者）\
 Pauling → 博士生、诺奖得主 Martin Karplus &nbsp;&nbsp;&nbsp; → 博士后J. Brady   &nbsp;&nbsp;&nbsp;  → 博士后(作者）\
